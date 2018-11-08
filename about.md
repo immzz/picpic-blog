@@ -1,7 +1,7 @@
 ---
-layout: page
 title: 关于我们
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 Picpic现场互动 - 聊天，投票，抽奖，荧光棒，会议日程，微信上墙，大屏互动...轻松创建活动，扫码即可互动，所有功能完全免费。
