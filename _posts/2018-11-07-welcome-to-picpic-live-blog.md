@@ -8,6 +8,6 @@ categories:
 layout: post
 ---
 
-![Halloween 2018.png]({{site.baseurl}}/_posts/Halloween 2018.png)
+![Halloween 2018.png]({{site.baseurl}}/uploads/Halloween2018.png)
 
 这里有最好玩的现场互动，一起来看看吧
