@@ -1,6 +1,7 @@
 ---
 title: Picpic现场互动 - 博客
 timezone: UTC
+author: © Heluofan Technology Inc.
 collections:
   posts:
     title: Posts
@@ -25,6 +26,9 @@ youtube_displayname: Picpic Live
 default_list_title: 全部文章
 markdown: kramdown
 theme: minima
+live_interactions_url: /products/live-interactions/
+sponsorship_url: /products/sponsorship/
+demo_url: /demo/
 plugins:
 - jekyll-feed
 - jekyll-admin
