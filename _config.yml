@@ -1,3 +1,4 @@
+---
 title: Picpic现场互动 - 博客
 timezone: UTC
 collections:
@@ -25,8 +26,8 @@ default_list_title: 全部文章
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-admin
+- jekyll-feed
+- jekyll-admin
 prose:
-  siteurl: "https://picpiclive.com/blog"
+  siteurl: https://picpiclive.com/blog
   media: uploads
