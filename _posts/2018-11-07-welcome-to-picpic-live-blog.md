@@ -1,10 +1,12 @@
 ---
 title: 欢迎来到Picpic Live博客
-date: 2018-11-07 23:24:25 Z
+date: 2018-11-07T23:24:25.000Z
 categories:
-- jekyll
-- update
+  - Picpic Live
+  - Audience Engagement
+  - Audience Interactions
 layout: post
+published: true
 ---
 
 ![Halloween 2018.png]({{site.baseurl}}/_posts/Halloween 2018.png)
