@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: 关于我们
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Picpic现场互动 - 聊天，投票，抽奖，荧光棒，会议日程，微信上墙，大屏互动...轻松创建活动，扫码即可互动，所有功能完全免费。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+联系邮箱：[service@picpic.live](service@picpic.live)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+联系微信：Lisaverygood
