@@ -6,6 +6,7 @@ categories:
 - Audience Engagement
 - Audience Interactions
 layout: post
+comments: true
 ---
 
 ![Halloween 2018.png]({{site.baseurl}}/uploads/Halloween2018.png)
