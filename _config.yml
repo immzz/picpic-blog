@@ -28,5 +28,4 @@ plugins:
   - jekyll-feed
   - jekyll-admin
 prose:
-  siteurl: "https://picpiclive.com/blog"
   media: uploads
