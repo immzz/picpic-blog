@@ -20,9 +20,43 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="social-share-cs"></div>
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
+  <script>
+    var shareConfig = {
+      // title               : 'Picpic Live',
+      // description         : 'Picpic Live',
+      disabled: ['diandian'],
+      wechatQrcodeTitle   : "微信扫一扫：分享", // 微信二维码提示文字
+      wechatQrcodeHelper  : '微信中点击"发现"->"扫一下"扫描二维码便可将本文分享至朋友圈',
+    };
+
+    socialShare('.social-share-cs', shareConfig);
+  </script>
+  <style>
+    .social-share .icon-wechat .wechat-qrcode {
+      top: -255px;
+      height: 242px;
+    }
+
+    .social-share .icon-wechat .wechat-qrcode .qrcode {
+      height: 150px;
+      width: 150px;
+    }
+
+    .social-share .icon-wechat .wechat-qrcode .qrcode img {
+      height: 100%;
+      width: 100%;
+    }
+
+    .social-share .icon-wechat .wechat-qrcode .help {
+      padding: 2px 8px;
+      line-height: 16px;
+    }
+  </style>
 </article>
