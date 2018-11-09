@@ -34,5 +34,5 @@ plugins:
 - jekyll-admin
 prose:
   media: uploads
-disqus:
-  shortname: picpiclive
+# disqus:
+#   shortname: picpiclive
