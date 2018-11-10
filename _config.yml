@@ -32,16 +32,20 @@ demo_url: "/demo/"
 plugins:
 - jekyll-feed
 prose:
-  rooturl: '_posts'
   # siteurl: 'http://prose.github.io/starter/'
   # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'uploads'
+  media: uploads
   metadata:
     _posts:
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
+      - name: "categories"
+        field:
+          element: "text"
+          label: "Categories"
+          value: ""
       - name: "title"
         field:
           element: "text"
