@@ -51,6 +51,11 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "permalink"
+          value: "permalink: /:categories/:year/:month/:day/:title/"
       - name: "splash"
         field:
           element: "text"

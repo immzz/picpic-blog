@@ -2,6 +2,7 @@
 title: 欢迎来到Picpic Live博客
 date: 2018-11-07 23:24:25 Z
 layout: post
+permalink: /:categories/:year/:month/:day/:title/
 ---
 
 ![Halloween 2018.png]({{site.baseurl}}/uploads/Halloween2018.png)
