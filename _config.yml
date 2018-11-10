@@ -56,6 +56,11 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: "CURRENT_DATETIME"
       - name: "tags"
         field:
           element: "multiselect"
