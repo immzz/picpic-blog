@@ -55,7 +55,7 @@ prose:
         field:
           element: "text"
           label: "permalink"
-          value: "permalink: /:categories/:year/:month/:day/:title/"
+          value: /:categories/:year/:month/:day/:title/
       - name: "splash"
         field:
           element: "text"
