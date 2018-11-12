@@ -281,3 +281,45 @@
     }
   }
 }
+
+.prev-next-posts {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  width: auto;
+  overflow: hidden;
+  border-top: 1px solid #dedede;
+  margin-bottom: 16px;
+  padding-top: 16px;
+  margin-top: 21px;
+  @include media-query($on-palm) {
+    display: block;
+  }
+}
+
+.prev-next-posts .next {
+  text-align: right;
+  @include media-query($on-palm) {
+    display: block;
+    text-align: center;
+    margin-top: 8px;
+  }
+}
+
+.prev-next-posts .prev {
+  text-align: right;
+  @include media-query($on-palm) {
+    display: block;
+    text-align: center;
+    margin-top: 8px;
+  }
+}
+
+.prev-next-posts .no-more {
+  color: #999;
+  @include media-query($on-palm) {
+    display: block;
+    text-align: center;
+    margin-top: 8px;
+  }
+}

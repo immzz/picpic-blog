@@ -2,28 +2,49 @@
 layout: default
 ---
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
+<article
+  class="post h-entry"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
+>
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
     <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+      <time
+        class="dt-published"
+        datetime="{{ page.date | date_to_xmlschema }}"
+        itemprop="datePublished"
+      >
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
+        -%} {{ page.date | date: date_format }}
       </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      {%- if page.author -%} •
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person"
+        ><span class="p-author h-card" itemprop="name">{{
+          page.author
+        }}</span></span
+      >
+      {%- endif -%}
+    </p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+  <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
 
   <div class="social-share-cs"></div>
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
+
+  <div class="prev-next-posts">
+    {% if page.previous.url %}
+    <a class="prev" href="{{site.baseurl}}{{page.previous.url}}"
+      >&laquo; {{ page.previous.title }}</a
+    >
+    {% else %} <span  class="no-more">没有上一篇了</span> {% endif %} {% if page.next.url %}
+    <a class="next" href="{{site.baseurl}}{{page.next.url}}">{{ page.next.title }} &raquo;</a>
+    {% else %} <span class="no-more">没有下一篇了</span> {% endif %}
+  </div>
+  {%- if site.disqus.shortname -%} {%- include disqus_comments.html -%} {%-
+  endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
@@ -31,12 +52,13 @@ layout: default
     var shareConfig = {
       // title               : 'Picpic Live',
       // description         : 'Picpic Live',
-      disabled: ['diandian'],
-      wechatQrcodeTitle   : "微信扫一扫：分享", // 微信二维码提示文字
-      wechatQrcodeHelper  : '微信中点击"发现"->"扫一下"扫描二维码便可将本文分享至朋友圈',
+      disabled: ["diandian"],
+      wechatQrcodeTitle: "微信扫一扫：分享", // 微信二维码提示文字
+      wechatQrcodeHelper:
+        '微信中点击"发现"->"扫一下"扫描二维码便可将本文分享至朋友圈'
     };
 
-    socialShare('.social-share-cs', shareConfig);
+    socialShare(".social-share-cs", shareConfig);
   </script>
   <style>
     .social-share .icon-wechat .wechat-qrcode {
