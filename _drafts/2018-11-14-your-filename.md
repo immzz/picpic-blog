@@ -3,7 +3,7 @@ layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-14 00:13 +0100'
 published: false
-title: ''
+title: 有哪些有趣且不用很大开销的聚会方式？
 ---
 作者：叶白二
 链接：https://www.zhihu.com/question/20914771/answer/16592519
