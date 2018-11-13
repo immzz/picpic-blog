@@ -2,19 +2,18 @@
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-13 21:51 +0100'
-published: false
+published: true
 title: 正经文章，没有在娱乐的电影《我不是药神》
 ---
 
 今天我们的故事是《我不是药神》。就是那么上映了很久的片子。
 
 
-![9213b07eca806538dcbb1dc39bdda144ac348289.jpg]({{site.baseurl}}/uploads/9213b07eca806538dcbb1dc39bdda144ac348289.jpg)
+![9213b07eca806538dcbb1dc39bdda144ac348289.jpg]({{site.baseurl}}/uploads/9213b07eca806538dcbb1dc39bdda144ac348289.jpg?style=centerme)
 
 《我不是药神》自上映以来就口碑炸裂，豆瓣评分高达9.0，一直很期待去看，可惜并没有在瑞士上映。所以就等呀等呀，等到腾讯电影上映。昨夜看完以后情感受到了莫大的冲击，再加上鬼使神差的刚读了一篇患癌患者心路历程的记述文，心里，脑中，身体里有太多的感触，导致语无伦次，几次提起笔，不知所云。所以等了一天，风平浪静的心更适合记录。
 
-![640.gif]({{site.baseurl}}/uploads/640.gif)
-
+![640.gif]({{site.baseurl}}/uploads/640.gif?style=centerme)
 
 20亿的观影量，考虑到为数不多的blog读者，我就来假设你们都看过啦。所以下面是详细剧透环节，如果没看过，请绕路：
 
@@ -38,5 +37,4 @@ title: 正经文章，没有在娱乐的电影《我不是药神》
 
 
 今天的故事讲完了，你还喜欢吗？
-
 

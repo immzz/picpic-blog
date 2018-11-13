@@ -15,11 +15,13 @@ Dir.foreach('uploads') do |item|
     puts 'checking uploads/'+item+'...'
     if compressedImages.has_key?(item)
         puts 'uploads/'+item+' is already compressed, skipping...'
-    else
+    elsif item.end_with? ".jpg" or item.end_with? ".jpeg" or item.end_with? ".JPG" or item.end_with? ".JPEG" or item.end_with? ".png" or item.end_with? ".PNG"
         source = Tinify.from_file('uploads/'+item)
         source.to_file('uploads/'+item)
         compressedImages[item] = true
         puts 'finished compressing uploads/'+item
+    else
+        puts 'pass unsupported file '+item
     end
 end
 
