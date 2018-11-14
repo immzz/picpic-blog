@@ -3,7 +3,7 @@ layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-14 18:21 +0100'
 published: false
-title: Technology solution for Live event audience engagement
+title: 'You cannot miss this, technology solution for Live event audience engagement'
 ---
 
 Today’s story is about audience engagement.
