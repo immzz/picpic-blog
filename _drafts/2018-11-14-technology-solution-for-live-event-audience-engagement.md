@@ -5,12 +5,18 @@ date: '2018-11-14 18:21 +0100'
 published: false
 title: 'You cannot miss this, technology solution for Live event audience engagement'
 ---
+![1_W2giC8TjletygTa_fV67_A.jpeg]({{site.baseurl}}/uploads/1_W2giC8TjletygTa_fV67_A.jpeg)
+
 
 Today’s story is about audience engagement.
-Long time ago… Ok let’s cut it short, how do you make your audience more involved in an event? Give them candy? Send them gift? Or yell at them watch the stage, laugh more!
+Long time ago… Ok let’s cut it short, how do you make your audience more involved in an event? Give them candy? Send them gift? Or yell at them:hey you watch the stage!
 
 
-Ok apparently this is not the good way for it. Event is this weird thing, which you hosted to amaze your audience but only the stage guy got the loud mic can share their ideas freely. Audience could sit and take some photos. How could we give more power to audience and let them truly feel involved?
+Ok apparently these are not good way for it. Event is this weird thing, which you hosted to amaze your audience but only the stage guy who got the loud mic can share their ideas freely. Audience could sit and take some photos. 
+
+![1_8xGqa1Q9DuhH2MdICLDgiQ.jpeg]({{site.baseurl}}/uploads/1_8xGqa1Q9DuhH2MdICLDgiQ.jpeg)
+
+So the question arised, how could we give more power to audience and let them truly feel involved?
 
 I’ve been an event planner for several years, this is one of the question that I always ask myself. Today I want to talk about an audience interactive technology solution here Picpic Live.
 
