@@ -22,7 +22,10 @@ I’ve been an event planner for several years, this is one of the question that
 We have seen X factor, American idol, where results are all decided by judges. We believe in judges proficiency, but to be honest, if a star is going to win people’s heart, the decision is made by every non privileged audience, so why not give audience more saying. So my suggestion do a live poll, hear everyone’s voice, see the result right away on the screen.
 
 ![0_fFJkF7jHoFx5K-X4.png]({{site.baseurl}}/uploads/0_fFJkF7jHoFx5K-X4.png)
-Live Poll Screen
+
+
+![Live Poll Screen]({{site.baseurl}}/uploads/0_fFJkF7jHoFx5K-X4.png)
+
 
 ## Audience ===== bridge ===== Stage:
 Instead of trying to imagine what audience like, we really need to hear what audience are thinking. With live chat room, audience can express their ideas, event host could pick the best ideas out and posted on to the screen so that everyone could see. With this tech solution, a bridge is built between audience and stage, feedback are collected. Audience are fully involved, and feel appreciated.
@@ -45,9 +48,10 @@ Photo by Choi Hochit on Unsplash
 
 Remember the glow stick light effect like Talor Swift concert, where you could control each every glow stick colour and blink frequency? Plastic is not environmental friendly, and expensive. So I use “Controlable phone glow stick” where Audience phone screen colour would be the same as what you decide, and blink with same frequency. No plastic, just phone.
 
+![IMG_2406.JPG]({{site.baseurl}}/uploads/IMG_2406.JPG)
 
 [Video Demo for Phone Glow Stick](https://www.youtube.com/watch?v=P7prkCvv0GE "Video Demo for Phone Glow Stick")
 
-## Interaction is the key factor for making audience involved. So let’s use it well.
+Interaction is the key factor for making audience involved. So let’s use it well.
 
-Check if this technology help’s you.
+Check if this [technology](picpiclive.com) help’s you.
