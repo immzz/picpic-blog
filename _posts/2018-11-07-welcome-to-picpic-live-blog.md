@@ -1,6 +1,7 @@
 ---
 title: 欢迎来到Picpic Live博客
 date: 2018-11-07 23:24:25 Z
+categories: zh-cn
 layout: post
 permalink: /:categories/:year/:month/:day/:title/
 ---

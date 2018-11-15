@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: diary
+categories: zh-cn diary
 permalink: /:categories/:year/:month/:day/:title/
 date: '2018-11-12 00:23 +0100'
 published: true
