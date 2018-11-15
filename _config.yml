@@ -31,6 +31,7 @@ sponsorship_url: "/products/sponsorship/"
 demo_url: "/demo/"
 plugins:
 - jekyll-feed
+google_analytics: UA-108361281-4
 prose:
   # siteurl: 'http://prose.github.io/starter/'
   # relativeLinks: 'http://prose.github.io/starter/links.jsonp'

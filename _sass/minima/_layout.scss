@@ -293,6 +293,7 @@
 
 .prev-next-posts .next {
   text-align: right;
+  padding-left: 16px;
   @include media-query($on-palm) {
     display: block;
     text-align: center;
@@ -301,7 +302,8 @@
 }
 
 .prev-next-posts .prev {
-  text-align: right;
+  text-align: left;
+  padding-right: 16px;
   @include media-query($on-palm) {
     display: block;
     text-align: center;
