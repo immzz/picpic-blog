@@ -2,7 +2,8 @@
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-12 01:01 +0100'
-categories: zh-cn event-host brand
+categories: zh-cn event-host product-brand
+tags: [品牌认知度,活动广告]
 published: true
 title: 为什么要办活动？活动对于品牌意味着什么？
 ---

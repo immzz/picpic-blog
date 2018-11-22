@@ -3,6 +3,7 @@ layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-12 01:01 +0100'
 categories: zh-cn event-host
+tags: 
 published: true
 title: 年末将至，怎么才能办好一场大型活动，比如年会？
 ---

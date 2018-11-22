@@ -3,6 +3,7 @@ layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-14 18:21 +0100'
 categories: en event-host audience-interection
+tags: [post-on-screen,lottery-picking,glow-stick,audience-engagement]
 published: true
 title: 'How to increase audience engagement in live event?'
 ---

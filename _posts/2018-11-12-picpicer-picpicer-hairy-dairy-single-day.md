@@ -3,6 +3,8 @@ layout: post
 categories: zh-cn diary
 permalink: /:categories/:year/:month/:day/:title/
 date: '2018-11-12 00:23 +0100'
+categories: zh-cn daily
+tags: [双十一]
 published: true
 title: 毛豆和皮豆的日常
 ---

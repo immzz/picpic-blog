@@ -2,7 +2,8 @@
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-21 22:41 +0100'
-categories: zh-cn big-data instagram customization anti-abuse machine-learning 
+categories: zh-cn technology
+tags: [大数据,instagram,个性化,泛滥用,机器学习]
 published: true
 title: 数据爆炸时代的数据过滤
 ---

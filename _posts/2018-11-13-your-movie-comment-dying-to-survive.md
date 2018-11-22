@@ -2,7 +2,8 @@
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-13 21:51 +0100'
-categories: zh-cn movie-comment
+categories: zh-cn daily
+tags: movie
 published: true
 title: 正经文章，没有在娱乐的电影《我不是药神》
 ---
