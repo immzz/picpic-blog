@@ -32,5 +32,6 @@ Picpic Live 这两天接了两个跟爱情有关的活动，一个是十年婚�
 
 ![Picpicer恋人]({{site.baseurl}}/uploads/4a396308-96cd-4dc8-b37f-8ddc45d9ff5a-223-0000002ce7bbb0ff_tmp-6.jpg)
 
+———————————————————————————
 
 了解更多活动互动信息，来看看picpiclive.com吧
