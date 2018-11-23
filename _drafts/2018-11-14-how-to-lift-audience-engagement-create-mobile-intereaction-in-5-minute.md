@@ -7,9 +7,9 @@ title: 免费提升活动参与度，5分钟教你创建手机现场互动
 ---
 如何提高现场观众参与度是许多活动主办方非常苦恼的问题。如果观众热情不高，主持人没办法抬热现场氛围，该怎么办呢？目前市面上有许多网站和平台提供手机现场互动功能，今天我们就来给大家介绍如何为你的活动添加免费现场互动功能。
 
-我们以Picpic现场互动为例：
+我们以[Picpic现场互动](picpiclive.com)为例：
 
-1. 首先打开官网：https://picpiclive.com/?hl=zh-cn
+1. 首先打开官网：[https://picpiclive.com/?hl=zh-cn](https://picpiclive.com/?hl=zh-cn)
 
 2. 点击右上角登录
 
