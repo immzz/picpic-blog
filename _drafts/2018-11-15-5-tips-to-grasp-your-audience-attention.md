@@ -34,7 +34,7 @@ Question is a good way to communicate with audience. It is a way to let audience
 
 Interaction with audience is one of the best way to make the crowd fully engaged. If your presentation is rather long, then you will gradually loose audience attention. How to let them more involved here are some good way for it: live pool, let audience make a choice, can be either a small quiz of what you just said or better, it can be a live experiment confirming what most people think, if the consensus is different from your conclusion, you definitely gonna receive a wow! Live poll is supported by many app. Picpic Live is a tech solution to do live poll and live result reveal, no need to download things, only scan QR code.
 
-
+![live chat]({{site.baseurl}}/uploads/WechatIMG3.jpeg)
 
 
 5.Wisely pause in your speech
