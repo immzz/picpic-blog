@@ -39,12 +39,25 @@ layout: default
     <a class="prev" href="{{site.baseurl}}{{page.previous.url}}"
       >&laquo; {{ page.previous.title }}</a
     >
-    {% else %} <span  class="no-more">没有上一篇了</span> {% endif %} {% if page.next.url %}
-    <a class="next" href="{{site.baseurl}}{{page.next.url}}">{{ page.next.title }} &raquo;</a>
+    {% else %} <span class="no-more">没有上一篇了</span> {% endif %} {% if
+    page.next.url %}
+    <a class="next" href="{{site.baseurl}}{{page.next.url}}"
+      >{{ page.next.title }} &raquo;</a
+    >
     {% else %} <span class="no-more">没有下一篇了</span> {% endif %}
   </div>
   {%- if site.disqus.shortname -%} {%- include disqus_comments.html -%} {%-
   endif -%}
+  <script
+    async
+    src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+  ></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-5905760650815730",
+      enable_page_level_ads: true
+    });
+  </script>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
