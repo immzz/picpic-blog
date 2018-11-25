@@ -3,7 +3,7 @@ layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-13 21:51 +0100'
 categories: zh-cn daily
-tags: movie
+tags: [电影,我不是药神]
 published: true
 title: 正经文章，没有在娱乐的电影《我不是药神》
 ---
@@ -38,4 +38,10 @@ title: 正经文章，没有在娱乐的电影《我不是药神》
 
 
 今天的故事讲完了，你还喜欢吗？
+
+——————————————————————
+
+了解更多活动互动信息，来看看picpiclive.com吧
+
+更多好玩的文章请关注公众号：Picpic老友记
 
