@@ -8,4 +8,6 @@ permalink: /:categories/:year/:month/:day/:title/
 
 ![Halloween 2018.png]({{site.baseurl}}/uploads/Halloween2018.png)
 
+<p align="right">作者: jiani.littlehorse(ins)</p>
+
 这里有最好玩的现场互动，一起来看看吧
