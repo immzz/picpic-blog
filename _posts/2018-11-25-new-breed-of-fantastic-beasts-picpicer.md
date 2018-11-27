@@ -1,16 +1,20 @@
 ---
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
-date: '2018-11-23 22:01 +0100'
+date: '2018-11-25 22:26 +0200'
 published: true
 categories: en daily comic
-tags: [super-man, Stan_Lee, picpicer]
-title: Super Picpicer
+tags: [fantastic-beasts, picpicer]
+title: 'New bread of Fantastic Beasts: Picpicer'
 ---
-# <center> Dedicated to a great and fun soul! </center>
-![Super Picpicer]({{site.baseurl}}/uploads/WechatIMG7.jpeg)
+# <center> Do you like fantastic beasts? How about this one? </center>
+
+![Fantastic Beasts]({{site.baseurl}}/uploads/WechatIMG61.jpeg)
 
 <p align="right">From artist: jiani.littlehorse(ins)</p>
+
+# <center> I really really do! </center>
+
 
 ——————————————————————
 
