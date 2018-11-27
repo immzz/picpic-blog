@@ -6,6 +6,8 @@ categories: zh-cn event-host product-brand
 tags: [品牌认知度,活动广告]
 published: true
 title: 为什么要办活动？活动对于品牌意味着什么？
+feature_image: /uploads/WechatIMG32.jpeg
+description: 为什么品牌要举办活动，或者赞助活动成为冠名商？活动对于这些品牌到底意味着什么？难道看晚会的人就一定会去买产品吗？
 ---
 
 刚过去的双十一天猫晚会大腕云集。很多小伙伴想问为什么品牌要举办活动，或者赞助活动成为冠名商？活动对于这些品牌到底意味着什么？难道看晚会的人就一定会去买产品吗？

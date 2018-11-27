@@ -6,6 +6,8 @@ published: true
 categories: en audience-attention presentation
 tags: [audience-engagement, live-poll, eye-contact, story-telling]
 title: 5 tips to grasp your audience attention!
+feature_image: /uploads/adorable-books-candle-326581.jpg
+description: How to get your audience attention? Here are five tips that may help you. 5 minute reading may empower your ability of presentation to next level!
 ---
 
 "It is almost end of year, how is your KPI doing? You may finish them very well, the next step is properly present your work to co-workers, but is that really that simple?" Presentation needs skill!

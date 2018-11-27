@@ -6,6 +6,8 @@ categories: zh-cn technology
 tags: [大数据,instagram,个性化,泛滥用,机器学习]
 published: true
 title: 数据爆炸时代的数据过滤
+feature_image: /uploads/abstract-ai-art-373543.jpg
+description: 在网络高速发展的今天，数据源源不断的从各个媒介传入脑中，不知不觉我们走入一个数据爆炸时代，大数据已经成为每个人耳熟能详的科学词语。怎样在汪洋的大海数据集里选择出好信息是大数据时代的一个大挑战。
 ---
 ![大数据]({{site.baseurl}}/uploads/abstract-ai-art-373543.jpg)
 

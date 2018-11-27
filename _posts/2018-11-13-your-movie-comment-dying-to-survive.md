@@ -6,6 +6,8 @@ categories: zh-cn daily
 tags: [电影,我不是药神]
 published: true
 title: 正经文章，没有在娱乐的电影《我不是药神》
+feature_image: /uploads/WechatIMG11.jpeg
+description: 今天我们的故事是《我不是药神》。就是那么上映了很久的片子。
 ---
 
 今天我们的故事是《我不是药神》。就是那么上映了很久的片子。

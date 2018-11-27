@@ -6,6 +6,8 @@ categories: en event-host audience-interection
 tags: [post-on-screen,lottery-picking,glow-stick,audience-engagement]
 published: true
 title: 'How to increase audience engagement in live event?'
+feature_image: /uploads/1_8xGqa1Q9DuhH2MdICLDgiQ.jpeg
+description: Today’s story is about audience engagement.
 ---
 ![Event photo]({{site.baseurl}}/uploads/1_W2giC8TjletygTa_fV67_A.jpeg)
 
