@@ -6,6 +6,8 @@ published: true
 categories: en daily comic
 tags: [super-man, Stan_Lee, picpicer]
 title: Super Picpicer
+feature_image: /uploads/WechatIMG7.jpeg
+description: Dedicated to a great and fun soul!
 ---
 # <center> Dedicated to a great and fun soul! </center>
 ![Super Picpicer]({{site.baseurl}}/uploads/WechatIMG7.jpeg)

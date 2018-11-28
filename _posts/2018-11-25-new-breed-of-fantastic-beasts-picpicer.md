@@ -6,6 +6,8 @@ published: true
 categories: en daily comic
 tags: [fantastic-beasts, picpicer]
 title: 'New bread of Fantastic Beasts: Picpicer'
+feature_image: /uploads/WechatIMG61.jpeg
+description: Do you like fantastic beasts? How about this one?
 ---
 # <center> Do you like fantastic beasts? How about this one? </center>
 

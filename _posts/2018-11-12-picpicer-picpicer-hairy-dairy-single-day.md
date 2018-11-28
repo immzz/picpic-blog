@@ -7,6 +7,8 @@ categories: zh-cn daily comic
 tags: [双十一, 皮豆儿]
 published: true
 title: 毛豆和皮豆的日常
+feature_image: /uploads/WechatIMG4.jpeg
+description: 双十一到了，你是在过买买节，还是光棍节？
 ---
 <center>双十一到了，</center>
 
