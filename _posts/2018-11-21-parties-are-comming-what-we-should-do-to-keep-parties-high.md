@@ -3,7 +3,7 @@ layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-21 20:45 +0100'
 categories: zh-cn event-host party
-tags: [聚会,VR,密室逃脱,狼人杀,微信上墙,抽奖,荧光棒]
+tags: [聚会,游戏, VR,密室逃脱,狼人杀,微信上墙,抽奖,荧光棒]
 published: true
 title: 年底大波聚会来袭，如何让气氛嗨起来，风光做C位
 feature_image: /uploads/pexels-photo-1449791.jpeg
