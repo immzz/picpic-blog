@@ -2,8 +2,12 @@
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-05 00:35 +0100'
-published: false
+published: true
 title: 冰岛——世界最初的样子（下集）
+categories: zh-cn daily travel
+tags: [旅行,游记,冰岛,活动]
+feature_image: /uploads/lrg_dsc09343.jpg
+description: 回程的飞机里，云层之上，来记录一下下半集，也许有人在等。
 ---
 回程的飞机里，云层之上，来记录一下下半集，也许有人在等。
 
