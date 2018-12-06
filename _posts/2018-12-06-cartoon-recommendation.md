@@ -13,9 +13,10 @@ description: 马上要去电影院看无敌破坏王2了，太激动。朋友和
 
 ![开心]({{site.baseurl}}/uploads/huangren.gif){: .center-image }
 
-朋友和我一样激动，还花了一张特别的插画。
+朋友和我一样激动，还画了一张特别的插画。
 
 ![无敌破坏王与皮豆儿]({{site.baseurl}}/uploads/WechatIMG18.jpeg){: .center-image }
+<p align="right">来自可爱插画师: jiani.littlehorse(ins)</p>
 
 正值电影上映之际，小编顺便推荐几部看过的动画电影吧。
 
