@@ -26,7 +26,7 @@ Picpic Live 这两天接了两个跟爱情有关的活动，一个是十年婚�
 
 产品是有灵气的，你能透过他看的到创造者是一个喜欢简单的，还是喜爱热闹的人。一直想做有温度有态度的作品，人间寡味，用心才有颜色。
 
-![各种各样的恋人]({{site.baseurl}}/uploads/screenshot-docs.google.com-2018.12.07-00-20-23.png)
+![恋人]({{site.baseurl}}/uploads/screenshot-docs.google.com-2018.12.07-00-20-23.png)
 
 ———————————————————————————
 
