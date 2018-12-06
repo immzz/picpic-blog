@@ -11,7 +11,7 @@ title: Picpic Live新闻播报——可以进行有互动的活动发布了
 
 活动信息，可以短至一句话，详尽至一篇文书（可直接复制整篇图文信息）。各位请这边看：
 
-![活动展示]({{site.baseurl}}/uploads/demo-event.png)
+![可以互动的活动发布展示]({{site.baseurl}}/uploads/demo-event.png)
 
 划重点：需要售票的也可以填写票务信息，没错就是这么经济实惠。
 
