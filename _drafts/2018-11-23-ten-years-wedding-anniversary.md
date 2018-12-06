@@ -8,7 +8,8 @@ title: 故事：十年结婚纪念日
 
 开头借用一句来自《创业时代》的话，每个产品都写着创造者的灵魂。
 
-![两个牵手的Picpicer先生]({{site.baseurl}}/uploads/4a396308-96cd-4dc8-b37f-8ddc45d9ff5a-223-0000002ce7bbb0ff_tmp-2.jpg)
+![两个牵手的Picpicer先生]({{site.baseurl}}/uploads/screenshot-docs.google.com-2018.12.07-00-22-51.png)
+
 
 Picpic Live 这两天接了两个跟爱情有关的活动，一个是十年婚姻纪念日，一个是远方的野生用户创建的婚礼。
 
