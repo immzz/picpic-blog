@@ -3,7 +3,7 @@ layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-12 01:01 +0100'
 categories: zh-cn event-host
-tags: [组织,志愿者,节目组,赞助组,票务组]
+tags: [活动组织,志愿者,节目组,赞助组,票务组]
 published: true
 title: 年末将至，怎么才能办好一场大型活动，比如年会？
 feature_image: /uploads/1_W2giC8TjletygTa_fV67_A.jpeg
