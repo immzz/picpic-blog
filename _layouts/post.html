@@ -84,15 +84,163 @@ layout: default
       line-height: 16px;
     }
   </style>
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script
+    async
+    src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+  ></script>
   <!-- Blog Post Bottom -->
-  <ins class="adsbygoogle"
-       style="display:block"
-       data-ad-client="ca-pub-9042381910330866"
-       data-ad-slot="2883436644"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
+  <ins
+    class="adsbygoogle"
+    style="display:block"
+    data-ad-client="ca-pub-9042381910330866"
+    data-ad-slot="2883436644"
+    data-ad-format="auto"
+    data-full-width-responsive="true"
+  ></ins>
   <script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  <script src="https://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+  <script type="text/javascript">
+    function configWechatJsSdk(appId, noncestr, timestamp, signature) {
+      if (window.wx) {
+        return new Promise((resolve, reject) => {
+          window.wx.config({
+            //   debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+            appId: appId, // 必填，公众号的唯一标识
+            timestamp, // 必填，生成签名的时间戳
+            nonceStr: noncestr, // 必填，生成签名的随机串
+            signature, // 必填，签名
+            jsApiList: [
+              "onMenuShareTimeline",
+              "updateAppMessageShareData",
+              "updateTimelineShareData",
+              "onMenuShareAppMessage",
+              "onMenuShareQQ",
+              "onMenuShareWeibo",
+              "onMenuShareQZone"
+            ] // 必填，需要使用的JS接口列表
+          });
+          window.wx.ready(() => {
+            resolve();
+          });
+          window.wx.error(() => {
+            reject("Error configuring wx"); // eslint-disable-line prefer-promise-reject-errors
+          });
+        });
+      }
+
+      // else
+      return Promise.reject("wx is not defined in current environment"); // eslint-disable-line prefer-promise-reject-errors
+    }
+
+    function configAppShareMessage(title, desc, link, imageUrl) {
+      if (window.wx) {
+        return new Promise((resolve, reject) => {
+          wx.updateAppMessageShareData({
+            title, // 分享标题
+            desc, // 分享描述
+            link, // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+            imgUrl: imageUrl, // 分享图标
+            success: () => {
+              resolve();
+            },
+            fail: () => {
+              reject("updateAppMessageShareData failed"); // eslint-disable-line prefer-promise-reject-errors
+            }
+          });
+        });
+      }
+
+      // else
+      return Promise.reject("wx is not defined in current environment"); // eslint-disable-line prefer-promise-reject-errors
+    }
+
+    function configTimelineShareMessage(title, link, imageUrl) {
+      if (window.wx) {
+        return new Promise((resolve, reject) => {
+          wx.updateTimelineShareData({
+            title, // 分享标题
+            link, // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
+            imgUrl: imageUrl, // 分享图标
+            success: () => {
+              resolve();
+            },
+            fail: () => {
+              reject("updateTimelineShareData failed"); // eslint-disable-line prefer-promise-reject-errors
+            }
+          });
+        });
+      }
+
+      // else
+      return Promise.reject("wx is not defined in current environment"); // eslint-disable-line prefer-promise-reject-errors
+    }
+
+    function getWechatSignature(url) {
+      var noncestr = randStr(8);
+      var timestamp = Math.floor(Date.now() / 1000);
+      return fetch(
+        `https://api.picpiclive.com/users/wechat/signature?noncestr=${encodeURIComponent(
+          noncestr
+        )}&timestamp=${encodeURIComponent(timestamp)}&url=${encodeURIComponent(
+          url
+        )}`
+      ).then(response => {
+        if (response.errorCode !== "NO_ERROR") {
+          return null;
+        }
+
+        return { noncestr, timestamp, signature: response.signature };
+      });
+    }
+
+    function randStr(len) {
+      var s = "";
+      while (s.length < len)
+        s += Math.random()
+          .toString(36)
+          .substr(2, len - s.length);
+      return s;
+    }
+
+    getWechatSignature(window.location.href).then(response => {
+      if (!response) {
+        return;
+      }
+
+      configWechatJsSdk(
+        "wxf9bb8f4cb328d6c7",
+        response.noncestr,
+        response.timestamp,
+        response.signature
+      ).then(() => {
+        configAppShareMessage(
+          "{{ page.title | escape }}",
+          "{{ page.description | escape }}",
+          window.location.href,
+          "https://picpiclive.com{{site.baseurl}}{{page.feature_image}}"
+        )
+          .then(() => {
+            // alert(`Finished configuring AppShareMessage`)
+          })
+          .catch(reason => {
+            // alert(`Error configuring AppShareMessage: ${reason}`)
+            console.log(`Error configuring AppShareMessage: ${reason}`);
+          });
+        configTimelineShareMessage(
+          "{{ page.title | escape }}",
+          window.location.href,
+          "https://picpiclive.com{{site.baseurl}}{{page.feature_image}}"
+        )
+          .then(() => {
+            // alert(`Finished configuring TimelineShareMessage`)
+          })
+          .catch(reason => {
+            // alert(`Error configuring TimelineShareMessage: ${reason}`)
+            console.log(`Error configuring TimelineShareMessage: ${reason}`);
+          });
+      });
+    });
   </script>
 </article>
