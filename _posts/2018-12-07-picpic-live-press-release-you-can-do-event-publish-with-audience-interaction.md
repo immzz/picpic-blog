@@ -4,7 +4,7 @@ permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-07 00:05 +0100'
 published: true
 title: Picpic Live新闻播报——可以进行有互动的活动发布了
-categories: zh-cn update event-update
+categories: zh-cn update event-publish
 tags: [活动发布,观众互动]
 feature_image: /uploads/demo-event.png
 description: 我台推销记者整理报道。好消息好消息，Picpic Live 又有新产品！走过路过不要错过，引进最新美国，欧洲先进技术，隆重推出活动发布产品，不止如此，是拥有互动的活动发布！
