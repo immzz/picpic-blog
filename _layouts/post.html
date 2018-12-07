@@ -186,7 +186,9 @@ layout: default
         )}&timestamp=${encodeURIComponent(timestamp)}&url=${encodeURIComponent(
           url
         )}`
-      ).then(response => {
+      ).then(rawResponse => {
+        return rawResponse.json()
+      }).then(response => {
         if (response.errorCode !== "NO_ERROR") {
           return null;
         }
