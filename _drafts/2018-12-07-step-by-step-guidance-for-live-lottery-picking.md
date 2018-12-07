@@ -11,7 +11,14 @@ title: 手把手详解，制作属于自己的浪漫现场抽奖
 
 每个观众扫描二维码，将信息，祝福写在孔明灯下垂坠的卡片上。确定后孔明灯会上升，进入大屏幕。
 
+![观众填写手机上抽奖信息]({{site.baseurl}}/uploads/phone_lottery_CN.png)
+
 屏幕上的孔明灯闪闪烁烁：
+
+![屏幕上孔明灯闪闪烁烁]({{site.baseurl}}/uploads/screenshot-staging.picpiclive.com-2018.12.08-00-14-12.png)
+
+
+下面我们来看看如何制作吧。
 
 # 活动注册：
 
