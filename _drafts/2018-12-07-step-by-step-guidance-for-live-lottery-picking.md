@@ -15,7 +15,15 @@ title: 手把手详解，制作属于自己的浪漫现场抽奖
 
 # 活动注册：
 
+1.首先打开官网：https://picpiclive.com
+2.创建活动：
+![创建活动]({{site.baseurl}}/uploads/download-9.png)
+3.填写活动详情
+![活动详情]({{site.baseurl}}/uploads/%E6%B4%BB%E5%8A%A8%E8%AF%A6%E6%83%85.png)
+
 # 选择功能：
+
+
 
 设置：
 1. 设置观众需要填写的信息
