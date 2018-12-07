@@ -17,7 +17,6 @@ title: 手把手详解，制作属于自己的浪漫现场抽奖
 
 ![屏幕上孔明灯闪闪烁烁]({{site.baseurl}}/uploads/screenshot-staging.picpiclive.com-2018.12.08-00-14-12.png)
 
-
 下面我们来看看如何制作吧。
 
 # 活动注册：
@@ -27,6 +26,7 @@ title: 手把手详解，制作属于自己的浪漫现场抽奖
 ![创建活动]({{site.baseurl}}/uploads/download-9.png)
 3.填写活动详情
 ![活动详情]({{site.baseurl}}/uploads/%E6%B4%BB%E5%8A%A8%E8%AF%A6%E6%83%85.png)
+
 
 # 选择功能：
 
@@ -65,4 +65,5 @@ title: 手把手详解，制作属于自己的浪漫现场抽奖
 ![抽奖]({{site.baseurl}}/uploads/v2-e58e73f81f0cf8756f997b439f6b5481_hd.jpg)
 ![抽奖大屏幕]({{site.baseurl}}/uploads/v2-a230f29407fe4198880f7dfa8e9f9aa1_hd.jpg)
 
+偷偷讲一个彩蛋：抽奖的背景可以更换，关键点就在于活动详情的封面图呦。
 快来试试吧
