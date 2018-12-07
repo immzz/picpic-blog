@@ -25,7 +25,8 @@ title: 手把手详解，制作属于自己的浪漫现场抽奖
 
 
 
-设置：
+# 设置：
+
 1. 设置观众需要填写的信息
 
 ![设置观众需要填写的信息]({{site.baseurl}}/uploads/v2-d78163c9b48f49888565120ae8c8753b_hd.jpg)
@@ -34,7 +35,8 @@ title: 手把手详解，制作属于自己的浪漫现场抽奖
 
 ![设置每个奖项的获奖人数]({{site.baseurl}}/uploads/v2-751e6c82bc3d43c22d4001823748f61e_hd.jpg)
 
-现场控制：
+# 现场控制：
+
 1. 接受抽奖
 
 ![接受抽奖]({{site.baseurl}}/uploads/v2-3df6c49e2677b0bce8e7a82591d8569b_hd.jpg)
