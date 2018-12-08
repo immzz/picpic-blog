@@ -5,9 +5,9 @@ date: '2018-12-07 00:58 +0100'
 published: true
 title: 手把手详解，制作属于自己的浪漫现场抽奖
 categories: zh-cn audience-interaction lottery-picking
-tags: [活动发布,观众互动]
-feature_image: /uploads/demo-event.png
-description: 我台推销记者整理报道。好消息好消息，Picpic Live 又有新产品！走过路过不要错过，引进最新美国，欧洲先进技术，隆重推出活动发布产品，不止如此，是拥有互动的活动发布！
+tags: [活动,观众互动,抽奖]
+feature_image: /uploads/screenshot-staging.picpiclive.com-2018.12.08-00-14-12.png
+description: 活动抽奖一直是现场活动里一个点睛亮点，大到央视春晚，小到学生会晚会。活动类型覆盖酒会，宣讲，论坛，比赛。好的抽奖安排可以活跃气氛，增强观众参与感，提高收视、上座率。下面就要聊聊方法论了：有客观问了怎么来实现好的抽奖方式呢？主页君答：来试试看超炫酷的孔明灯抽奖吧！
 ---
 讲活动抽奖，开篇一定要强调一下概念。活动抽奖一直是现场活动里一个点睛亮点，大到央视春晚，小到学生会晚会。活动类型覆盖酒会，宣讲，论坛，比赛。好的抽奖安排可以活跃气氛，增强观众参与感，提高收视、上座率。
 
