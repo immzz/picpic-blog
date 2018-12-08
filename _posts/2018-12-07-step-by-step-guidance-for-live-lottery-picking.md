@@ -23,7 +23,7 @@ description: 我台推销记者整理报道。好消息好消息，Picpic Live �
 
 下面我们来看看如何制作吧。
 
-# 活动注册：
+# 给你的活动安个家：
 
 1.首先打开官网：https://picpiclive.com
 2.创建活动：
