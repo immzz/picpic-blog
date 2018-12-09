@@ -57,7 +57,7 @@ describe("Post walkthrough", () => {
     const postContainers = await page.$$(".post-container");
     expect(postContainers.length).toBeGreaterThan(0);
 
-    const pickedPostIndex = getRandomInt(0, 3);
+    const pickedPostIndex = getRandomInt(0, 4);
     console.log(`Picked post ${pickedPostIndex}`);
     const pickedPost = postContainers[pickedPostIndex];
 
@@ -107,12 +107,13 @@ describe("Post walkthrough", () => {
       await page.waitFor(getRandomInt(500, 4000));
     }
 
+    // const prob = 1;
     const prob = Math.random() * 0.2 + 0.1;
     console.log(`Draw with probability ${prob}`);
     if (drawFromProbability(prob)) {
       const adsbygoogle = await page.$(".adsbygoogle");
       // await tapOnElement(page, adsbygoogle);
-      await adsbygoogle.click();
+      await tapOnElement(page, adsbygoogle)
       await page.waitFor(getRandomInt(4000, 7000));
       // expect(page.url().indexOf("picpiclive.com")).toBeLessThan(0);
       await randomScroll(page, client, keyboard);
@@ -199,7 +200,7 @@ async function moveByDelta(page, client, keyboard, x, y, direction) {
     });
   }
 
-  await raf(client);
+  await page.waitFor(getRandomInt(250, 450));
   await client.send("Input.dispatchTouchEvent", {
     type: "touchEnd",
     touchPoints: [],
