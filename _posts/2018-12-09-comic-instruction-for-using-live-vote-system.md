@@ -7,7 +7,7 @@ published: true
 categories: zh-cn audience-interaction live-vote 
 tags: [现场投票，漫画]
 feature_image: /uploads/WechatIMG262.jpeg
-description: 马上要去电影院看无敌破坏王2了，太激动。朋友和我一样激动，还花了一张特别的插画。正值电影上映之际，小编顺便推荐几部看过的动画电影吧。
+description: 咳咳，谁的小眼睛，还没有看老师？今天的课题关于如何建立现场投票？敲黑板，考点哦！
 ---
 
 <center> 咳咳，谁的小眼睛，还没有看老师？</center>
