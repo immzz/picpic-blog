@@ -40,12 +40,12 @@ layout: default
     {% if paginator.total_pages > 1 %}
       <div class="prev-next-posts no-border">
         {% if paginator.previous_page %}
-        <a class="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
+        <a class="prev" href="{{ paginator.previous_page_path | remove: 'index.html'| prepend: site.baseurl }}"
           >&laquo; 更新的文章</a
         >
         {% else %} <span class="no-more">已到最新一页</span>{% endif %}
         {% if paginator.next_page %}
-        <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl }}"
+        <a class="next" href="{{ paginator.next_page_path | remove: 'index.html' | prepend: site.baseurl }}"
           >更早的文章 &raquo;</a
         >
         {% else %} <span class="no-more">已到最早一页</span>{% endif %}
