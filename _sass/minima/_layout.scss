@@ -201,6 +201,9 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  @include media-query($on-palm) {
+    padding-top: $spacing-unit / 2;
+  }
   flex: 1;
 }
 
@@ -210,6 +213,10 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  @include media-query($on-palm) {
+    @include relative-font-size(1.5);
+  }
+  margin-bottom: 24px;
 }
 
 .post-list {
@@ -248,10 +255,15 @@
 .post-title {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
-  line-height: 1;
+  line-height: 1.25;
 
   @include media-query($on-laptop) {
-    @include relative-font-size(1.80);
+    @include relative-font-size(1.8);
+  }
+
+  @include media-query($on-palm) {
+    @include relative-font-size(1.6);
+    line-height: 1.5;
   }
 }
 
@@ -327,6 +339,10 @@
   }
 }
 
+.prev-next-posts.no-border {
+  border-top: none;
+}
+
 .center-image {
   margin: 0 auto;
   display: block;
@@ -368,4 +384,8 @@
   @include media-query($on-palm) {
     max-height: 100px;
   }
+}
+
+.rss-subscribe {
+  margin-top: 24px;
 }

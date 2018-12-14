@@ -3,16 +3,13 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
+  {%- if paginator.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "全部文章" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in paginator.posts -%}
       <li>
         <div class="post-container">
         <div class="post-word">
@@ -40,7 +37,21 @@ layout: default
       {%- endfor -%}
     </ul>
 
+    {% if paginator.total_pages > 1 %}
+      <div class="prev-next-posts no-border">
+        {% if paginator.previous_page %}
+        <a class="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl }}"
+          >&laquo; 更新的文章</a
+        >
+        {% else %} <span class="no-more">已到最新一页</span>{% endif %}
+        {% if paginator.next_page %}
+        <a class="next" href="{{ paginator.next_page_path | prepend: site.baseurl }}"
+          >更早的文章 &raquo;</a
+        >
+        {% else %} <span class="no-more">已到最早一页</span>{% endif %}
+      </div>
+      {% endif %}
+    {%- endif -%}
     <p class="rss-subscribe">订阅我们的 <a href="{{ "/feed.xml" | relative_url }}">RSS</a></p>
-  {%- endif -%}
 
 </div>
