@@ -5,6 +5,8 @@ date: '2018-12-16 08:23 -0800'
 published: false
 title: 周末去哪玩，洛杉矶地区近期活动
 ---
+一年一度圣诞假期即将来临，大家是不是都做好旅行计划了呢？如果没有也没有关系，小编列出了几个洛杉矶地区的活动，驻守在洛杉矶的小伙伴也不用担心没有可玩可看的了。
+
 Descanso Gardens Enchanted : Forest of Light日本花园迷幻夜光森林
 
 Nov 18 2018 - Jan 6 2019 5:30 pm -10:00 pm Ticket $28-30
