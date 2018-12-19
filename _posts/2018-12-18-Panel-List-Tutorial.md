@@ -2,7 +2,7 @@
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-18 23:17 -0800'
-published: true
+published: false
 title: 严谨论述文，舍弃印制纸质活动流程单，手把手教学电子流程单
 categories: zh-cn Panel List Tutorial
 tags: [教学，流程，活动，节目单]

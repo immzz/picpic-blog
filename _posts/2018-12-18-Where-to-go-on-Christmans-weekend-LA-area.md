@@ -2,7 +2,7 @@
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-16 08:23 -0800'
-published: true
+published: false
 title: 圣诞、周末去哪玩，洛杉矶地区近期活动
 categories: zh-cn daily
 tags: [圣诞，周末，活动，洛杉矶]

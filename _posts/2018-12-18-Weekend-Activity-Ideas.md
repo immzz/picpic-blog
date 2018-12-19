@@ -2,7 +2,7 @@
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-16 08:49 -0800'
-published: true
+published: false
 title: 史上最全，周末活动点子大集合
 categories: zh-cn daily
 tags: [周末，活动，点子]
