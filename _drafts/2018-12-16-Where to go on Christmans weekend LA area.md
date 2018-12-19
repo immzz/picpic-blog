@@ -6,6 +6,8 @@ published: false
 title: 周末去哪玩，洛杉矶地区近期活动
 ---
 一年一度圣诞假期即将来临，大家是不是都做好旅行计划了呢？如果没有也没有关系，小编列出了几个洛杉矶地区的活动，驻守在洛杉矶的小伙伴也不用担心没有可玩可看的了。
+![Christmas-Decorating-Ideas-to-Try-this-Holiday-Season-Christmas-Decorations.jpg]({{site.baseurl}}/uploads/Christmas-Decorating-Ideas-to-Try-this-Holiday-Season-Christmas-Decorations.jpg)
+
 
 Descanso Gardens Enchanted : Forest of Light日本花园迷幻夜光森林
 
