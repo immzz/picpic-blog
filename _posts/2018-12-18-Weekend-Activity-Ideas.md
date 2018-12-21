@@ -4,7 +4,7 @@ permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-18 08:49 -0800'
 published: true
 title: 史上最全，周末活动点子大集合
-categories: zh-cn daily
+categories: zh-cn daily activity
 tags: [周末，活动，点子]
 feature_image: /uploads/take-a-hike-day.png
 description: 周末是一周内最放松的时候，可以安排一些想做的活动。小编的习惯是一天玩，一天宅，收拾收拾卫生，整理整理东西。朋友问我周末一般可以做什么呢？我举例子说，可以看电影，画画，登山，打球。朋友还是不满意。于是本人整理了一系列可以做的事情，供大家参考。
