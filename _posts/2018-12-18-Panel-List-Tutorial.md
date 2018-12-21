@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
-date: '2018-12-18 23:17 -0800'
-published: false
+date: '2018-12-18 03:17 -0800'
+published: true
 title: 严谨论述文，舍弃印制纸质活动流程单，手把手教学电子流程单
 categories: zh-cn Panel List Tutorial
 tags: [教学，流程，活动，节目单]
@@ -17,7 +17,7 @@ description: 负责任的舍弃一物，要提供出路，分析一物好恶，�
 
 再来看2号参赛选手，灵动随时变，电子流程表解放你的活动时间线。随时轻松添加，修改流程，编辑每项流程的嘉宾简介。即便是活动开始前，也可修改。观众只需扫描二维码随时可以了解最新的活动信息。也可以配合其他互动一起使用，增强观众体验度，提升活动质量，与品牌认知。
 
-![1]({{site.baseurl}}/uploads/WechatIMG453.png)
+![流程单手机图]({{site.baseurl}}/uploads/WechatIMG453.png)
 
 
 2. round two：信息延展性
@@ -50,11 +50,9 @@ Picpic的电子流程单是免费的！二维码的承载方法多种多样，�
 ![3]({{site.baseurl}}/uploads/screenshot-picpiclive.com-2018.12.18-19-20-57.png)
 
 
-
 3. 添加互动：添加流程表，编辑每个环节内容。
 
 ![4]({{site.baseurl}}/uploads/screenshot-picpiclive.com-2018.12.18-19-22-52.png)
-
 
 
 4. 把活动二维码分享给观众吧：这里介绍几种方法。
