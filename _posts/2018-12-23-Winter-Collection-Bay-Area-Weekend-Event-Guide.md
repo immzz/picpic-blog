@@ -28,49 +28,49 @@ Night Bloom | 夜间绽放
  
 小编亲测体验：远远望去，投影覆盖的温室花房像一座冬天的童话。步入其中，会走进精心设计的不同主题的展馆。最先进入的是星空馆，三原色投影的星光闪烁在草业林木之间，如果多一些镜子或水面，就很有草间弥生（Yayoi Kusama）镜屋展览（Infinity Mirrored Room, 2013）的无垠之感。之后进入热带雨林馆，馆内气氛潮湿，温暖如中国南方的亚热带。巨型的异域植物在暖光的烘托下，生长得狂野而恣肆。之后会走进一个粉色的场馆，馆中有草木蔓生的凉亭供游客拍照留念。小编参观的时候，恰巧见到一群乘坐轮椅的人士在凉亭合影，微笑的脸在粉色的光照下露出美好的气色。花房出口附近有一处感应式投影，会随着人体的运动投射出五彩的粒子，仿佛风中流转消散的花瓣。总体而言，这是一次满足小编奇幻想象的体验，也是一次亲近自然的旅程。美中不足的地方，便是互动环节没有预期的丰富。大部分装置都是静态投影，就像是沉睡在花房中的植物们，在下着雨的冬夜里，安安静静的一场美梦。 
 
-![WeChat Image_20181222235419.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235419.jpg)
+![树影]({{site.baseurl}}/uploads/WeChat Image_20181222235419.jpg)
 
 月色摇晃树影，穿梭在热带雨林 
  
-![WeChat Image_20181222235442.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235442.jpg)
+![猪笼草]({{site.baseurl}}/uploads/WeChat Image_20181222235442.jpg)
  
 阁下想必是猪笼草吧 
  
-![WeChat Image_20181222235450.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235450.jpg)
+![凉亭]({{site.baseurl}}/uploads/WeChat Image_20181222235450.jpg)
  
  
 粉粉的场馆与凉亭 
  
-![WeChat Image_20181222235523.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235523.jpg)
+![叶片]({{site.baseurl}}/uploads/WeChat Image_20181222235523.jpg)
  
 叶片上散落的星空 
  
-![WeChat Image_20181222235546.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235546.jpg)
+![植物]({{site.baseurl}}/uploads/WeChat Image_20181222235546.jpg)
  
 有一种在霍格沃茨上生物课的感觉 
  
-![WeChat Image_20181222235554.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235554.jpg)
+![温室]({{site.baseurl}}/uploads/WeChat Image_20181222235554.jpg)
  
 “雪花”覆盖的温室穹顶 
  
  
-![WeChat Image_20181222235625.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235625.jpg)
+![周边商店]({{site.baseurl}}/uploads/WeChat Image_20181222235625.jpg)
 
 摆满绿植的周边商店 
  
  
-![WeChat Image_20181222235640.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235640.jpg)
+![光波]({{site.baseurl}}/uploads/WeChat Image_20181222235640.jpg)
  
 跳动流转的粒子光波 
  
 走出这个温暖的梦境之后，可能会感到一阵寒冷（特别是在三藩湿漉漉的下雨天）。到花房附近亮着灯的小餐车，买一份热乎乎的烧烤，也算是欣赏冬雨的一种方式吧……值得一提的是，三藩植物园还承办各种私人派对和婚礼。从网络上流传的相片来看，植物和器具的摆设颇有格调，仪式感满满。感兴趣的话，可以到SF Conservatory of Fowers官网了解一下~ 
-![WeChat Image_20181222235802.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235802.jpg)
-![WeChat Image_20181222235807.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235807.jpg)
+![私人派对]({{site.baseurl}}/uploads/WeChat Image_20181222235802.jpg)
+![植物器具]({{site.baseurl}}/uploads/WeChat Image_20181222235807.jpg)
  
  
  
 近来刷朋友圈的时候，意外发现有个大学同学闪婚了，发了好多美美的婚纱照。祝福之余，发现冬天的闪成和闪离都比较多，也许冬天是个不理性的季节吧。在这个寒冷凛冽的季节，人们总是希望有所依靠。祝您有一首歌可暖房，有一座温室可流连。 
- ![WeChat Image_20181222235814.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235814.jpg)
+ ![蛋糕]({{site.baseurl}}/uploads/WeChat Image_20181222235814.jpg)
 
  
 - THANKS FOR READING - 
