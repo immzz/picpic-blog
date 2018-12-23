@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: '/:categories/:year/:month/:day/:title/'
-date: '2018-12-23 00:07 -0800'
+date: '2018-12-22 00:07 -0800'
 published: true
 title: 凛冬精华版 湾区周末活动指南
 categories: zh-cn daily activity
