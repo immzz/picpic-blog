@@ -6,7 +6,7 @@ published: true
 title: 凛冬精华版 湾区周末活动指南
 categories: zh-cn daily activity
 tags: [湾区，活动，植物，灯光秀]
-feature_image: /uploads/WeChat Image_20181222235351.jpg
+feature_image: /uploads/WeChat Image_20181222235554.jpg
 description: 湾区的天气越发寒冷，学校迎来了final week，小编也被期末折磨得生不如死。已经工作的朋友却笑着说，没事你们快点毕业，就可以从这个苦海进入下一个苦海……好吧，人世匆匆，这周就给大家重点推荐个精品活动。凛冬将至，是时候慢下来，疗愈积攒了一年的疲惫。
 ---
  
@@ -101,7 +101,7 @@ Night Bloom | 夜间绽放
 
 花房婚礼：https://conservatoryofflowers.org/events/ 
  
- 
+
 -请关注我们 Picpic- 
 
 ![WeChat Image_20181222235822.jpg]({{site.baseurl}}/uploads/WeChat Image_20181222235822.jpg){: .center-image }
