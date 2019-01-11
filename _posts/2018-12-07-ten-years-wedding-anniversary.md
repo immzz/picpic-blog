@@ -7,7 +7,8 @@ title: 故事：十年结婚纪念日
 categories: zh-cn event wedding
 tags: [活动，婚礼，产品]
 feature_image: /uploads/screenshot-docs.google.com-2018.12.07-00-22-51.png
-description: 马上要去电影院看无敌破坏王2了，太激动。朋友和我一样激动，还花了一张特别的插画。正值电影上映之际，小编顺便推荐几部看过的动画电影吧。
+description: 开头借用一句来自《创业时代》的话，每个产品都写着创造者的灵魂。
+Picpic Live 这两天接了两个跟爱情有关的活动，一个是十年婚姻纪念日，一个是远方的野生用户创建的婚礼。
 ---
 
 开头借用一句来自《创业时代》的话，每个产品都写着创造者的灵魂。
