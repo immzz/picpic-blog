@@ -36,14 +36,14 @@ Fill in event information.
 ![download-29.png]({{site.baseurl}}/uploads/download-29.png)
 
 
-# Event Live control
+
 
 3. Add Live chat function.
 
 ![download-30.png]({{site.baseurl}}/uploads/download-30.png)
 
 
-
+# Event Live control
 
 Switch Live function to on.
 
