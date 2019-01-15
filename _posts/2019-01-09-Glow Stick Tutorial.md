@@ -5,7 +5,7 @@ date: '2019-01-09 06:39 -0800'
 published: true
 title: 超炫酷黑科技，免费环保的现场荧光棒，你值得拥有，手把手详解制作属于自己的可控现场观众荧光棒
 categories: zh-cn Glow Stick tutorial
-tags: [荧光棒，活动，现场，high,观众，环保]
+tags: [荧光棒，活动，现场，high，观众，环保]
 feature_image: /uploads/9c0f9-1fj4yimvfkd_azzhreqp7hw.jpeg
 description: 去过演唱会现场的童鞋都会被现场斑斓的荧光棒感染吧。黑暗中的点点星光，色彩明艳，浪漫温馨。那小型的爬梯，歌手比赛，怎么能方便便宜的应用到荧光棒呢？今天就给大家介绍一款超神的可中控手机荧光棒。
 ---

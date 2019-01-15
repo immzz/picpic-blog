@@ -5,7 +5,7 @@ date: '2019-01-06 23:01 -0800'
 published: true
 title: 想要让活动现场气氛high起来？想要聆听观众的声音？亲爱的活动主办方，你要学会用微信墙了
 categories: zh-cn wechat wall tutorial
-tags: [微信墙，活动，现场，high,观众，互动聊天]
+tags: [微信墙，活动，现场，high，观众，互动聊天]
 feature_image: /uploads/Chat_Screen_CN@0.45x.23d78a494763a9c06f4bc74901b28707.bltast.png
 description: 微信墙是一种可以通过大屏幕同步展示观众的互动消息的技术手段。可以活跃现场气氛，提神醒脑，还可以聆听观众心声，比起活动后收集反馈更加高效。今天呢的就要教大家一个简单易操作但效果超赞的微信墙的使用方法。手把手教学，哪怕是电脑小白也可以熟练掌握。
 ---
