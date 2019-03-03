@@ -7,9 +7,9 @@ title: Are you still struggling how to pick the lucky audience in your event? He
 categories: en lucky draw tutorial
 tags: [lucky draw, event, interaction, lantern, festival, lottery]
 feature_image: /uploads/Capture.JPG
-description: Today let’e talk about how to use lucky draw in an event. Speaking of the most popular part of an event, lucky draw is definitely on the top. From yearly national TV shows to student union parties, from cocktail parties to speech forums, and competition, you can hardly find any occasion doesn’t fit for a lucky draw. It is an exciting section that can active atmosphere, enhance the sense of participation of the audience.
+description: Today let’s talk about how to use lucky draw in an event. Speaking of the most popular part of an event, lucky draw is definitely on the top. From yearly national TV shows to student union parties, from cocktail parties to speech forums, and competition, you can hardly find any occasion doesn’t fit for a lucky draw. It is an exciting section that can active atmosphere, enhance the sense of participation of the audience.
 ---
-Today let’e talk about how to use lucky draw in an event.
+Today let’s talk about how to use lucky draw in an event.
 
 
 Speaking of the most popular part of an event, lucky draw is definitely on the top. From yearly national TV shows to student union parties, from cocktail parties to speech forums, and competition, you can hardly find any occasion doesn’t fit for a lucky draw. It is an exciting section that can active atmosphere, enhance the sense of participation of the audience.

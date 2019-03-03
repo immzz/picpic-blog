@@ -7,7 +7,7 @@ title: Haven’t tried audience vote in your event? You should start it right aw
 categories: en vote tutorial
 tags: [vote, event, interaction, favorite singer, electronic tickects]
 feature_image: /uploads/download-28 (1).png
-description: introduce you a cool and free live audience voting system to empower your event.
+description: Let's introduce you a cool and free live audience voting system to empower your event.
 ---
 “Pick your favorite singer!”
 
