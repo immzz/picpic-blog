@@ -10,14 +10,14 @@ collections:
     output: true
 author: "© Heluofan Technology Inc."
 email: service@picpic.live
-home_url: https://picpiclive.com
+home_url: https://blog.picpiclive.com
 home_title: 主页
 blog_home_title: 博客主页
 about_title: 关于
 logourl: https://drcn65av4x1ah.cloudfront.net/favicon-270x270.png
 description: Picpic现场互动 - 博客
-baseurl: "/blog"
-url: https://picpiclive.com
+baseurl: ""
+url: https://blog.picpiclive.com
 twitter_username: picpiclive
 instagram_username: picpic_live
 facebook_username: Picpic-Live-161583901330530

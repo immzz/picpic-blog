@@ -46,7 +46,7 @@ describe("Post walkthrough", () => {
       "accept-language": "en-GB,en-US;q=0.9,en;q=0.8"
     });
 
-    await page.goto("https://picpiclive.com/blog", {
+    await page.goto("https://blog.picpiclive.com", {
       timeout: 10000,
       waitUntil: ["domcontentloaded", "load"]
     });
