@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: '/:categories/:year/:month/:day/:title/'
+# permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-25 22:26 +0200'
 published: true
 categories: en daily comic

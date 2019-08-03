@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: '/:categories/:year/:month/:day/:title/'
+# permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-06 23:23 +0200'
 published: true
 title: 适合大学学生会举办的10种活动

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: '/:categories/:year/:month/:day/:title/'
+# permalink: '/:categories/:year/:month/:day/:title/'
 date: '2019-01-14 21:11 -0800'
 published: true
 title: Haven’t tried audience vote in your event? You should start it right away. Here is a step by step guidance for a cool and free live audience vote solution!

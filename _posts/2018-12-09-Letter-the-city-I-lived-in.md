@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: '/:categories/:year/:month/:day/:title/'
+# permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-10 00:33 +0100'
 published: true
 title: 有没有生活过的城市们——太原，上海，Los Angeles

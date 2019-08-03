@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: '/:categories/:year/:month/:day/:title/'
+# permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-06 22:15 +0100'
 published: true
 title: 推荐几部看过的动画电影

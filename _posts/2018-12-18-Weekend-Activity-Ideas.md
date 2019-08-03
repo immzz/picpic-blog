@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: '/:categories/:year/:month/:day/:title/'
+# permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-18 08:49 -0800'
 published: true
 title: 史上最全，周末活动点子大集合

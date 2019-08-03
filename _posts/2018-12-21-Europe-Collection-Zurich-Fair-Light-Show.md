@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: '/:categories/:year/:month/:day/:title/'
+# permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-21 00:31 -0800'
 published: true
 title: 欧洲精选|苏黎世赶集——夜访灯光秀

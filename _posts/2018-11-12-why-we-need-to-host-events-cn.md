@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: '/:categories/:year/:month/:day/:title/'
+# permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-12 01:01 +0100'
 categories: zh-cn event-host product-brand
 tags: [品牌认知度,活动广告]

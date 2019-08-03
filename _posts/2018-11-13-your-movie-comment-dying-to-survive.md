@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: '/:categories/:year/:month/:day/:title/'
+# permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-13 21:51 +0100'
 categories: zh-cn daily
 tags: [电影,我不是药神]
