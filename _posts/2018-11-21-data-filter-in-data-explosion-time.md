@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-21 22:41 +0100'
 categories: zh-cn technology
 tags: [大数据,instagram,个性化,泛滥用,机器学习]

@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-23 22:00 +0100'
 published: true
 categories: zh-cn event-host audience-interection

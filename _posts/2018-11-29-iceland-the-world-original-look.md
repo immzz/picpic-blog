@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-29 11:58 +0000'
 published: true
 title: 冰岛——世界最原始的样子

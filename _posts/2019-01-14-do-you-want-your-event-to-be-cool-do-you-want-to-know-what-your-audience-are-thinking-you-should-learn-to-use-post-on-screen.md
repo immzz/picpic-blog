@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2019-01-14 20:54 -0800'
 published: true
 title: Do you want your event to be cool? Do you want to know what your audience are thinking? You should learn to use post on screen!

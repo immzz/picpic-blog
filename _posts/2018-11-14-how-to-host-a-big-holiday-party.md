@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-12 01:01 +0100'
 categories: zh-cn event-host
 tags: [活动组织,志愿者,节目组,赞助组,票务组]

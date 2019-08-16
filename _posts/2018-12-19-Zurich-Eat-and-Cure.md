@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-19 23:52 -0800'
 published: true
 title: 没有钝感力的肠胃—苏黎世吃与医

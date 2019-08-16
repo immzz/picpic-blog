@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-18 03:17 -0800'
 published: true
 title: 严谨论述文，舍弃印制纸质活动流程单，手把手教学电子流程单

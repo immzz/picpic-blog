@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-27 21:58 +0000'
 published: true
 title: 脱发——生命不能承受之痛，为了头发我都做了这些

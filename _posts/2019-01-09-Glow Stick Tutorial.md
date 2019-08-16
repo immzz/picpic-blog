@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2019-01-09 06:39 -0800'
 published: true
 title: 超炫酷黑科技，免费环保的现场荧光棒，你值得拥有，手把手详解制作属于自己的可控现场观众荧光棒

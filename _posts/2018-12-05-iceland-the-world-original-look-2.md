@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-05 00:35 +0100'
 published: true
 title: 冰岛——世界最初的样子（下集）

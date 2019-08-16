@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-09 23:52 +0100'
 title: 萌版图解5分钟建立现场投票
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2019-01-16 22:06 -0800'
 published: true
 title: Are you still struggling how to pick the lucky audience in your event? Here is a step by step guidance for the coolest and the most romantic live lucky draw—lucky lantern 

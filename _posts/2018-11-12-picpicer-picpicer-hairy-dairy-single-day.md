@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: zh-cn diary
-# permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
 date: '2018-11-12 00:23 +0100'
 categories: zh-cn daily comic
 tags: [双十一, 皮豆儿]

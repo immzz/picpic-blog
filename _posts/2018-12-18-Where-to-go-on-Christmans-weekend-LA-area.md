@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-18 08:23 -0800'
 published: true
 title: 圣诞、周末去哪玩，洛杉矶地区近期活动

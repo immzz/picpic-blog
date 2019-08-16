@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-07 00:05 +0100'
 published: true
 title: Picpic Live新闻播报——可以进行有互动的活动发布了

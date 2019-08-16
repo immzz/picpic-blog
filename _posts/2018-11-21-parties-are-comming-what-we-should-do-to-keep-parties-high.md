@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-11-21 20:45 +0100'
 categories: zh-cn event-host party
 tags: [聚会,游戏, VR,密室逃脱,狼人杀,微信上墙,抽奖,荧光棒]

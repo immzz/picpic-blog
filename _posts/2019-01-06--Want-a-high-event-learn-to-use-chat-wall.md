@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2019-01-06 23:01 -0800'
 published: true
 title: 想要让活动现场气氛high起来？想要聆听观众的声音？亲爱的活动主办方，你要学会用微信墙了

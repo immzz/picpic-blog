@@ -1,6 +1,6 @@
 ---
 layout: post
-# permalink: '/:categories/:year/:month/:day/:title/'
+permalink: '/:categories/:year/:month/:day/:title/'
 date: '2018-12-07 00:58 +0100'
 published: true
 title: 手把手详解，制作属于自己的浪漫现场抽奖
