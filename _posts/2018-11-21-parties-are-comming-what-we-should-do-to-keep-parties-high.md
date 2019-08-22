@@ -52,7 +52,7 @@ description: 如何让聚会气氛嗨起来，还能风光做C位？
 
 * 手机变成荧光棒，全场的手机可以一起闪烁，同一个颜色：很多人都去过大型演唱会，或是自带荧光棒，或是分发荧光棒，全场一片荧光海。那我们在聚会当中可不可以实现这样的效果呢。答案是可以，而且还免费。
 
-* 还有其他精彩功能，卖个关子，可以去[Picpic Live](picpiclive.com "website")官网看看
+* 还有其他精彩功能，卖个关子，可以去[皮豆互娱](picpiclive.com "website")官网看看
 
 ![互动大屏幕示意图]({{site.baseurl}}/uploads/Screen_CN@0.4x.757f9d15f156cf2748d812c4dd441475.bltast.png)
 
