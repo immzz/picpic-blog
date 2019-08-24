@@ -11,7 +11,7 @@ description: 如何提高现场观众参与度是许多活动主办方非常苦�
 ---
 如何提高现场观众参与度是许多活动主办方非常苦恼的问题。如果观众热情不高，主持人没办法抬热现场氛围，该怎么办呢？目前市面上有许多网站和平台提供手机现场互动功能，今天我们就来给大家介绍如何为你的活动添加免费现场互动功能。
 
-我们以[皮豆互娱](https://picpiclive.com)为例：
+我们以[皮豆工作室](https://picpiclive.com)为例：
 
 # 1. 首先打开官网：[https://picpiclive.com/?hl=zh-cn](https://picpiclive.com/?hl=zh-cn)
 
