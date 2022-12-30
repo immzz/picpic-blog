@@ -9,7 +9,7 @@
     },
     "devDependencies": {
         "puppeteer": "^1.8.0",
-        "jest": "^23.6.0"
+        "jest": "^29.3.1"
     },
     "scripts": {
         "test-e2e": "jest --ci --detectOpenHandles --config=\"jest.config.js\"",
